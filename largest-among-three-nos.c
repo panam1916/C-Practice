@@ -7,7 +7,7 @@ main() {
 
     scanf("%d%d%d",&a,&b,&c);
 
-    if((a>=b)&&(a>=c)) {
+    if((a>=b) && (a>=c)) {
 
        printf("\n the largest number is :%d",a);
 
@@ -21,4 +21,3 @@ main() {
 
     }
 }
-
